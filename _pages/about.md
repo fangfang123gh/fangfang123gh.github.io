@@ -11,14 +11,7 @@ I am a Ph.D student in Computer Science, [Harbin Institute of Technology (Shenzh
 
 My research interests lie in the areas of Semantic Understanding, Speech Processing, and Large Language Models (LLMs).
 
----
-permalink: /
-title: "Education"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Education
 
 - **2025.03 - ongoing**, Ph.D. Student in Computer Science, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/). Co-advised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/).
 
@@ -27,17 +20,10 @@ redirect_from:
 - **2018.09 - 2022.06**, B.Eng. in Computer Science and Technology, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 Experience
+
 - **2024.09 - ongoing**, Intern, [China Telecom](https://www.chinatelecom.com.cn/).
 
----
-permalink: /
-title: "Selected Publications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
+Selected Publications
 
 *&nbsp;Equal Contribution.
 
