@@ -12,8 +12,8 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "李欣欣 (Xinxin Li)"
 title_separator          : ""
 name                     : &name "李欣欣 (Xinxin Li)"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://fangfanggh123.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Personal academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://fangfang123gh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "李欣欣 (Xinxin Li)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Ph.D. Student in Computer Science"
+  location         : "Shenzhen, China"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "lixinx0714@gamil.com" 
