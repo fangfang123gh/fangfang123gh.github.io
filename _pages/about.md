@@ -30,9 +30,9 @@ Selected Publications
 Conference Papers
 
 1. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).  
-   **Xinxin Li***, Huiyao Chen*, Chengjun Liu, Jing Li, Meishan Zhang, Jun Yu, Min Zhang.  
+   **Xinxin Li**\*, Huiyao Chen\*, Chengjun Liu, Jing Li, Meishan Zhang, Jun Yu, Min Zhang.  
    In Findings of the Association for Computational Linguistics (**ACL**), 2025. [[code](https://github.com/fangfang123gh/LLM-SRL)][[cite](https://aclanthology.org/2025.findings-acl.1189/)]
 
-2. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).  
-   Huiyao Chen*, **Xinxin Li***, Meishan Zhang, Min Zhang.  
+3. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).  
+   Huiyao Chen\*, **Xinxin Li**\*, Meishan Zhang, Min Zhang.  
    In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code](https://github.com/DreamH1gh/SpeechSRL)] [[cite](https://aclanthology.org/2024.findings-acl.527/)]
